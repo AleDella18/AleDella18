@@ -8,15 +8,6 @@ I recently graduated with a B.Sc. in Computer Science and am very passionate abo
 I thrive on designing clear algorithmic models, coding efficient solutions (especially in Python 3), and turning research or theoretical ideas into working code.   
 Currently, I’m exploring open-source and personal projects that combine ML, algorithms, and real-world data.  
 
----
-
-## 🛠 Skills & Technologies  
-- **Languages**: Python 3 (primary), Java, C 
-- **Machine Learning & Data Science**: Scikit-learn, TensorFlow / PyTorch, Pandas & NumPy; strong understanding of supervised & unsupervised learning algorithms and model evaluation
-- **Algorithms & Problem Solving**: Graph algorithms, dynamic programming, greedy approaches, data structures, optimization & NP-hard problems, computational complexity
-- **Tools & Practices**: Git, GitHub (profile & repo management), Jupyter Notebooks, VS Code, unit testing, documentation  
-
-
 ## 📫 How to Reach Me  
 - LinkedIn: [Alessandro Della Flora](https://www.linkedin.com/in/alessandro-della-flora-31416533b/)
 - Email: aledella18@gmail.com  
