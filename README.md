@@ -13,40 +13,13 @@ Currently, I’m exploring open-source and personal projects that combine ML, al
 ## 🛠 Skills & Technologies  
 - **Languages**: Python 3 (primary), Java, C 
 - **Machine Learning & Data Science**: Scikit-learn, TensorFlow / PyTorch, Pandas & NumPy  
-- **Algorithms & Problem Solving**: //look here what to put  
+- **Algorithms & Problem Solving**: Graph algorithms, dynamic programming, greedy approaches, data structures, optimization & NP-hard problems, computational complexity
 - **Tools & Practices**: Git, GitHub (profile & repo management), Jupyter Notebooks, VS Code, unit testing, documentation  
----
 
-## 🚀 What I’m Working On  
-- A systematic literature review of computational redistricting, with table-based mappings of modelling approaches, graph types, node/edge attributes.  
-- Implementing / comparing several Python 3 redistricting algorithms and benchmarking them across U.S. states.  
-- Solving algorithmic problems (e.g., cube-transformation tasks, slice-rotations, queries) and turning them into reusable libraries or repository projects.  
-- Preparing open-source code, strong README files and well-documented projects so employers or collaborators can easily see what I build and how.
-
----
-
-## 📂 Highlight Projects  
-(These are pinned repos — check them out!)  
-- **Project A** – e.g., “Redistricting-Toolbox”: Python 3 implementation of graph and geometric models for U.S. redistricting, with benchmarking and documentation.  
-- **Project B** – e.g., “CubeSlice”: Algorithmic challenge solver for 3D cube slice rotations and queries — clean packaging, test suite, clear API.  
-- **Project C** – e.g., “ML-Algorithm-Library”: A collection of machine-learning algorithm implementations (from scratch) emphasising clarity, documentation, and educational value.
-
----
-
-## ✅ What I'm Looking For  
-- Opportunities to collaborate on interesting open-source algorithm or ML projects.  
-- Roles (internship or junior/full-time) that let me apply algorithmic modelling, machine learning, or data-intensive solutions.  
-- A team that values code quality, documentation, reproducibility, and real innovation in problem-solving.
-
----
 
 ## 📫 How to Reach Me  
-- LinkedIn: [Your LinkedIn Profile]  
-- Email: [Your Email Address]  
-- Portfolio / Blog: [If you have one]
-
----
-
+- LinkedIn: [Alessandro Della Flora](https://www.linkedin.com/in/alessandro-della-flora-31416533b/)
+- Email: aledella18@gmail.com  
 ---
 
 Thanks for stopping by — feel free to explore my repos, open issues, and let’s connect if you’re working on something cool!  
