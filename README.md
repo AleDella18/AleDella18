@@ -12,7 +12,7 @@ Currently, I’m exploring open-source and personal projects that combine ML, al
 
 ## 🛠 Skills & Technologies  
 - **Languages**: Python 3 (primary), Java, C 
-- **Machine Learning & Data Science**: Scikit-learn, TensorFlow / PyTorch, Pandas & NumPy  
+- **Machine Learning & Data Science**: Scikit-learn, TensorFlow / PyTorch, Pandas & NumPy; strong understanding of supervised & unsupervised learning algorithms and model evaluation
 - **Algorithms & Problem Solving**: Graph algorithms, dynamic programming, greedy approaches, data structures, optimization & NP-hard problems, computational complexity
 - **Tools & Practices**: Git, GitHub (profile & repo management), Jupyter Notebooks, VS Code, unit testing, documentation  
 
